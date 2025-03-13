@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Branch Visualization](https://github-readme-branch-visualizer.vercel.app/branches?user=nodejs&repo=node)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/tempestStampede/github-readme-stats)
 
