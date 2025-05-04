@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Seiji Amasawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=tempestStampede)](https://github.com/tempestStampede/github-readme-stats)
 
-frontend/
+frontend
 ├── backend/ #user state management
 ├── public/
 ├── src/
