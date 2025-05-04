@@ -17,3 +17,16 @@ Here are some ideas to get you started:
 
 [![Seiji Amasawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=tempestStampede)](https://github.com/tempestStampede/github-readme-stats)
 
+frontend/
+├── backend/ #user state management
+├── public/
+├── src/
+│ ├── api/ # API client
+│ ├── components/ # UI components
+│ ├── hooks/ # Custom React hooks
+│ ├── styles/ # CSS styles
+│ ├── tests/ # Unit & integration tests
+│ ├── App.jsx # App entry component
+│ └── main.jsx # Main entry file
+├── index.html
+└── package.json
