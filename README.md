@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 [![Seiji Amasawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=tempestStampede)](https://github.com/tempestStampede/github-readme-stats)
 
 frontend
-├── backend
-├── public
-├── src
-│ ├── api/ # API client
+- ├── backend
+- ├── public
+- ├── src
+- │ ├── api/ # API client
 │ ├── components/ # UI components
 │ ├── hooks/ # Custom React hooks
 │ ├── styles/ # CSS styles
